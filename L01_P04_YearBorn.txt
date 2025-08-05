@@ -1,0 +1,12 @@
+// A program that calculates the year you were born. 
+public class L01_P04_YearBorn 
+{ 
+   public static void main (String[] args) 
+   { 
+      int curentYear = 2025; 
+      int age = 20; //assuming the age is 20
+      int yearBorn = currentYear - age20; 
+
+      System.out.println( "You were born in the year:" + yearBorn ); 
+   } 
+} 

@@ -1,0 +1,13 @@
+/*A program that calculates the area of a rectangle of height 3 and width of 7, and then prints it on 
+the screen.*/
+public class L01_P02_Area 
+{ 
+public static void main (String[] args) 
+{ 
+ int height = 3;
+ int width = 3;
+ int area = height*width;
+
+System.out.println( "The area of a rectangle is:" + area ); 
+} 
+}

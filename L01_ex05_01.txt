@@ -1,0 +1,11 @@
+public class L01_ex05_01 
+{ 
+   public static void main (String[] args) 
+   { 
+      int age = 18; 
+      age = age + 10; 
+ 
+      System.out.println("In 10 years you will be”); 
+      System.out.println(age) 
+   } 
+} 

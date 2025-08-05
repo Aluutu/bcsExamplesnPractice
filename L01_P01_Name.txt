@@ -1,0 +1,11 @@
+//Practice 1: 
+//A program that prints my name on the screen. Name the program “L01_P01_Name” 
+
+public class L01_P01_Name 
+{ 
+public static void main (String[] args) 
+{ 
+string name = "John doe";
+System.out.println("My name is"+John doe.); 
+}
+}

@@ -1,0 +1,15 @@
+import java.util.Scanner; 
+ 
+public class L01_ex07_01 
+{ 
+   public static void main (String[] args) 
+   { 
+      Scanner input = new Scanner(System.in); 
+      int userAge; 
+ 
+      System.out.println(“Enter your age: “); 
+      userAge = input.nextInt(); 
+ 
+      System.out.println(userAge); 
+   } 
+} 

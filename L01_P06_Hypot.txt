@@ -1,0 +1,10 @@
+//A program that calculates a right-angle triangle’s hypotenuse side, given the adjacent side is 5.5 
+and opposite side is 3.25. 
+public class L01_P06_Hypot {
+    public static void main(String[] args) {
+        double adjacent = 5.5; // adjacent side
+        double opposite = 3.25; // opposite side
+        double hypotenuse = Math.hypot(adjacent, opposite);
+        System.out.println("The length of the hypotenuse is: " + hypotenuse);
+    }
+}
