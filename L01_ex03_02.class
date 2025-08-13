@@ -1,0 +1,8 @@
+public class L01_ex03_02 
+{ 
+   public static void main (String[] args) 
+   { 
+      int myNumber; 
+      myNumber = 100; 
+   } 
+} 

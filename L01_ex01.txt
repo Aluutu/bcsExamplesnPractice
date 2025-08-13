@@ -1,8 +1,0 @@
-/*Example 1: Writing a text on the screen*/
-public class L01_ex01 
-{ 
-public static void main (String[] args) 
-{ 
-System.out.println(“Hello world.”); 
-}
-}
